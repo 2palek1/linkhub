@@ -1,1 +1,1 @@
-# Chipi Chipi Chapa Chapa
+Django + Crispy-Tailwind
